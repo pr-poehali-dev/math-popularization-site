@@ -388,12 +388,12 @@ const Index = () => {
             <div className="space-y-4">
               <Icon name="Mail" size={32} className="text-blue-400 mx-auto" />
               <h3 className="text-lg font-semibold">Email</h3>
-              <p className="text-slate-300">contact@mathematician.ru</p>
+              <p className="text-slate-300">gummygenoff@mail.ru</p>
             </div>
             <div className="space-y-4">
               <Icon name="Phone" size={32} className="text-blue-400 mx-auto" />
               <h3 className="text-lg font-semibold">Телефон</h3>
-              <p className="text-slate-300">+7 (XXX) XXX-XX-XX</p>
+              <p className="text-slate-300">Да я пошутил</p>
             </div>
             <div className="space-y-4">
               <Icon
@@ -402,7 +402,7 @@ const Index = () => {
                 className="text-blue-400 mx-auto"
               />
               <h3 className="text-lg font-semibold">Telegram</h3>
-              <p className="text-slate-300">@mathematician_pro</p>
+              <p className="text-slate-300">@svalka_math</p>
             </div>
           </div>
           <div className="text-center mt-12">
@@ -417,7 +417,7 @@ const Index = () => {
       <footer className="bg-slate-950 text-slate-400 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <p>&copy; 2024 МатематикПро. Все права защищены.</p>
+            <p>© 2024 СВАЛКА. Все права защищены.</p>
           </div>
         </div>
       </footer>
