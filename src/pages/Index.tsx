@@ -281,7 +281,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-slate-600 mb-4">
-                    Матрицы, векторы, СЛАУ
+                    Пределы, ряды, интегралы
                   </p>
                   <Button variant="outline" size="sm" className="w-full">
                     Подробнее
