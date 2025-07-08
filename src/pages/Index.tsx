@@ -135,7 +135,7 @@ const Index = () => {
             </div>
             <div className="h-96 rounded-lg overflow-hidden">
               <img
-                src="/img/f1ea3d28-ebc0-414b-8edf-5d45f5e64b3e.jpg"
+                src="https://cdn.poehali.dev/files/2a13356a-ede9-423a-b7e1-04f2b2059b9b.jpg"
                 alt="Популяризатор математики"
                 className="w-full h-full object-cover"
               />
