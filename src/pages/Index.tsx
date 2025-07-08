@@ -19,7 +19,7 @@ const Index = () => {
             <div className="flex items-center space-x-2">
               <Icon name="Calculator" size={24} className="text-blue-600" />
               <span className="text-xl font-semibold text-slate-900">
-                МатематикПро
+                СВАЛКА
               </span>
             </div>
             <nav className="hidden md:flex space-x-8">
@@ -118,18 +118,16 @@ const Index = () => {
                     size={20}
                     className="text-blue-600"
                   />
-                  <span className="text-slate-700">
-                    Кандидат математических наук, МГУ
-                  </span>
+                  <span className="text-slate-700">МехМат, КФУ</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Users" size={20} className="text-blue-600" />
-                  <span className="text-slate-700">Более 5000 студентов</span>
+                  <span className="text-slate-700">Более 1000 обучающихся</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="BookOpen" size={20} className="text-blue-600" />
                   <span className="text-slate-700">
-                    200+ образовательных материалов
+                    Масса образовательных материалов
                   </span>
                 </div>
               </div>
