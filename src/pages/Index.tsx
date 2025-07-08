@@ -281,7 +281,8 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-slate-600 mb-4">
-                    Пределы, ряды, интегралы
+                    Понятное изложение основ предмета с прикладными задачами и
+                    примерами из жизни.
                   </p>
                   <Button variant="outline" size="sm" className="w-full">
                     Подробнее
