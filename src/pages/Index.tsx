@@ -281,8 +281,7 @@ const Index = () => {
                 </CardHeader>
                 <CardContent>
                   <p className="text-sm text-slate-600 mb-4">
-                    Подробное изучение основных концепций с практическими
-                    примерами и упражнениями.
+                    Матрицы, векторы, СЛАУ
                   </p>
                   <Button variant="outline" size="sm" className="w-full">
                     Подробнее
